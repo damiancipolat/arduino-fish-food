@@ -13,7 +13,7 @@ A personal arduino project, created with the goal of helping me remember to feed
 - 5 wires.
 
 ### The device looks like..
-<img src="https://github.com/damiancipolat/arduino-fish-food/blob/master/doc/photo_1.jpeg?raw=true" width="500px"/>
+<img src="https://github.com/damiancipolat/arduino-fish-food/blob/master/doc/photo_2.jpeg?raw=true" width="500px"/>
 
 ## Configuration:
 The program has configurated with this times, to change go to /src/fish/fish.ino.
