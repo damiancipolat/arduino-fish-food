@@ -26,3 +26,12 @@ clock_time SLEEP_END = createTime(8,0,0);
 
 - **Feed time**: 09:00 to 12:00
 - **Sleep mode**: 23:00 to 08:00
+
+## Modes:
+The program have 3 modes.
+- **Zero**: Waiting time to feed fish.
+- **One**: The fish have eaten, waiting to go into sleep mode.
+- **Two**: In energy saving, waiting at the end of this mode.
+
+## State machine
+The program response to this state machine diagram:
