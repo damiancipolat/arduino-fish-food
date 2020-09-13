@@ -35,3 +35,5 @@ The program have 3 modes.
 
 ## State machine
 The program response to this state machine diagram:
+
+<img src="https://github.com/damiancipolat/Node-event-saga/blob/master/doc/Saga%20payment-Architecture.png?raw=true" width="800px"/>
